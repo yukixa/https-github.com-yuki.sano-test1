@@ -1,0 +1,7 @@
+[user]
+	email = yuki.sano.xa@renesas.com
+	name = yuki.sano.xa
+[core]
+	editor = mvim
+[credential]
+	helper = store --file ~/.git-credentials
